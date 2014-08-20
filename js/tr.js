@@ -2,6 +2,7 @@ Lang.prototype.pack.tr = {"token": {
     "Home":"Hakkında",
     "About":"Hakkında",
     "Venue":"Mekan",
+    "Participation":"Katılım",
     "Program & Speakers":"Program & Konuşmacılar",
     "Register":"Kaydol",
     "REGISTER":"KAYDOL",
