@@ -1,4 +1,5 @@
 Lang.prototype.pack.tr = {"token": {
+    "Home":"Hakkında",
     "About":"Hakkında",
     "Venue":"Mekan",
     "Program & Speakers":"Program & Konuşmacılar",
