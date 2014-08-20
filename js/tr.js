@@ -4,6 +4,7 @@ Lang.prototype.pack.tr = {"token": {
     "Venue":"Mekan",
     "Program & Speakers":"Program & Konuşmacılar",
     "Register":"Kaydol",
+    "REGISTER":"KAYDOL",
     "Supporters":"Destekleyenler",
     "Contact":"İletişim",
     "4-5 September 2014":"4-5 Eylül 2014",
