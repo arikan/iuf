@@ -22,9 +22,12 @@ a:hover {
   background:#EEEEEE;
   min-height: 10px;
   margin-bottom: 0;
-  /*opacity: .8;*/
-  /*filter: alpha(opacity=80);*/
+  /*background-color:rgba(0, 0, 0, 0.0);*/
 }
+.navbar a{
+  /*color:#FFFFFF;*/
+}
+
 .jumbotron {
   background-color: #FFFFFF;
 

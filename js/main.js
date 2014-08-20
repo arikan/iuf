@@ -11,6 +11,8 @@ $(document).ready(function() {
   //   langSwitch("tr");
   // });
 
+  $("#en-switcher").css("color", "#999999");
+
   langSwitch = function(lang){
     window.lang.change(lang);
     if(window.lang.currentLang == "en"){
