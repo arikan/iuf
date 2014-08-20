@@ -26,10 +26,10 @@ $(document).ready(function() {
     e.preventDefault();
     if(window.lang.currentLang == "tr"){
       $(this).css("color", "#999999");
-      $("#en-switcher").css("color", "#783b9c");
+      $("#en-switcher").css("color", "#B7005B");
     } else if(window.lang.currentLang == "en") {
       $(this).css("color", "#999999");
-      $("#tr-switcher").css("color", "#783b9c");
+      $("#tr-switcher").css("color", "#B7005B");
     }
   });
 
