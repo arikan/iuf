@@ -84,6 +84,9 @@ a:hover {
   font-weight: 700;
   color: #666666;
 }
+.body-content h4 {
+  text-align: left;
+}
 .body-content .supporters img {
   width:150px;
 }
@@ -92,6 +95,15 @@ a:hover {
   line-height: 0.80em;
   opacity: .5;
   filter: alpha(opacity=50);
+}
+
+ul.participation, ul.participation-topics {
+  list-style-type: none;
+  margin:0;padding:0;
+}
+ul.participation-topics li {
+  /*float:left;*/
+  text-align: left;
 }
 
 input {
